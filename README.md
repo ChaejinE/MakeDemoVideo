@@ -1,2 +1,5 @@
 # MakeDemoVideo
-Generating Demo Video For me
+```shell
+sh run.sh
+```
+- Read shell files for custom if you need it
